@@ -1,3 +1,3 @@
-# Responsive Design
+# Testes e exercícios
 
-Exercício do curso do Code Cademy.
+
